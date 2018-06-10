@@ -1,0 +1,9 @@
+README.md
+setup.py
+nbanumbers/__init__.py
+nbanumbers.egg-info/PKG-INFO
+nbanumbers.egg-info/SOURCES.txt
+nbanumbers.egg-info/dependency_links.txt
+nbanumbers.egg-info/not-zip-safe
+nbanumbers.egg-info/requires.txt
+nbanumbers.egg-info/top_level.txt
