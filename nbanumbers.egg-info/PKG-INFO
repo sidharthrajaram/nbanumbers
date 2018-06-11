@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: nbanumbers
-Version: 0.8
-Summary: nba stats retrieval package
+Version: 0.9
+Summary: nbanumbers: a simple nba stats retrieval package
 Home-page: http://github.com/sidharthrajaram/nbanumbers
 Author: Sid Rajaram
 Author-email: tmzturtle@gmail.com
 License: MIT
-Description: UNKNOWN
+Description: Easily get season stats of any current NBA player. To retrieve a tensor of a player's stats, catch the result of nbanumbers.stats(PLAYER_NAME_STRING).
 Platform: UNKNOWN
