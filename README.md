@@ -1,5 +1,11 @@
 # nbastats
-### To retrieve a player's stats, catch the result of nbanumbers.stats(PLAYER_NAME_STRING).
+A simple python package that can be used to retrive any NBA player's current season statistics.
+This is a glorified scraper that I built for ***nba-predict*** and later used in all my other basketball related projects. 
+
+### Step 1: Installation (python 3)
+```bash
+$ pip install nbanumbers
+```
 
 Below is how the tensor is catalogued. 
 ###### A singular stat can be retrieved with a two dimensional index. For example, if the player tensor was titled PLAYER_STATS, then the player's PER would be found at PLAYER_STATS[1][2].

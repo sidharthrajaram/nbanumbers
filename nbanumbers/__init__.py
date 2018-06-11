@@ -9,7 +9,7 @@ import regex as re
 
 TABLES = False
 
-my_api_key = YOUR_API_KEY 
+my_api_key = YOUR_API_KEY
 my_cse_id = "013234493367067861201:e_sqh9dvrhy"
 
 def google_search(search_term, api_key, cse_id, **kwargs):
