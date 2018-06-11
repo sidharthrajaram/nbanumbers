@@ -16,14 +16,12 @@ $ python
 >>> print(lebron_stats)
 ```
 
-### Step 3: Future use
+### Step 3: Future use in any python file
 ```python
 import nbanumbers
 ```
-simply import nbanumbers into your python file.
 
-Below is how the tensor that stats(PLAYER_NAME) returns is catalogued. 
-###### A singular stat can be retrieved with a two dimensional index. For example, if the player tensor was titled PLAYER_STATS, then the player's PER would be found at PLAYER_STATS[1][2].
+###### Below is how the tensor that stats(PLAYER_NAME) returns is catalogued. A singular stat can be retrieved with a two dimensional index. For example, if the player tensor was titled PLAYER_STATS, then the player's PER would be found at PLAYER_STATS[1][2].
 
 |  -  |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  17  |  18  |  19  |  20  |  21  |  22  |  23  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -38,3 +36,5 @@ $ python
 >>> print(lebron_stats[0][23])
 27.5
 ```
+
+Happy travels fellow ballers!
