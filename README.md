@@ -1,4 +1,4 @@
-# nbastats
+# nbanumbers [deprecated]
 A simple python package that can be used to retrive any NBA player's current season statistics.
 This is a glorified scraper that I built for ***nba-predict*** and later used in all my other basketball related projects. 
 For now, there's only one main function that has use, which is stats(PLAYER_NAME).
